@@ -2425,6 +2425,30 @@ input, select, textarea {
 		
 		
 	}
+	.sql-image{
+		height: 115px;
+		width: auto;
+		
+		
+	}
+	.visualstudio-image{
+		height: 115px;
+		width: auto;
+		
+		
+	}
+	.slack-image{
+		height: 115px;
+		width: auto;
+		
+		
+	}
+	.postman-image{
+		height: 115px;
+		width: auto;
+		
+		
+	}
 	ul.feature-icons {
 		list-style: none;
 		padding-left: 0;
